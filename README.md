@@ -1,5 +1,5 @@
 # WeatherAppSwiftUI
-# Weather App
+![launch screen](https://github.com/sabrisonmez54/WeatherAppSwiftUI/blob/main/weatherApp.png)
 
 ## Overview
 The Weather App is a simple application built using Swift and SwiftUI that allows users to check the current weather for a specified city or their current location. It makes use of the OpenWeather API to retrieve weather data and displays relevant information such as temperature, weather conditions, and an appropriate weather icon.
